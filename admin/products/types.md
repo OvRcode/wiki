@@ -61,18 +61,18 @@ Every trip should be set to virtual unless we're mailing out some kind of physic
 ### General Settings
 Just going over the differences from simple product.
 * SKU and Stock settings are on the general tab
-* Destination: Assign a destination to this trip
+* **Destination:** Assign a destination to this trip
 	* [HOW TO: Create a new destination](#)
-* Trip type:
+* **Trip type:**
 	* This setting will impact the form shown to the customer and fields available for packages
-	* **Bus:** This is a bus based trip with one set of pickup locations and up to 3 packages. Can be single or multi-day
-	*  **Beach Bus:** Bus based trip with multiple routes.
-*  Age check:
+	* Bus: This is a bus based trip with one set of pickup locations and up to 3 packages. Can be single or multi-day
+	*  Beach Bus: Bus based trip with multiple routes.
+*  **Age check:**
 	*  Is the guest at least X years old?
 	*  options are 18, 18+, 21, 21+
 		*  options with + have a hard limit on birthday
 		*  options without plus allow underage and show a link to our age policy
-	*  Start Date: Starting date of trip
+	*  **Start Date:** Starting date of trip
 		*  it's important that the start/end dates are right so the trip shows up on the calendar properly
-	*  End Date: End date of trip
+	*  **End Date:** End date of trip
 
