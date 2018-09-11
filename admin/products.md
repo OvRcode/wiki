@@ -1,4 +1,5 @@
 <!-- TITLE: Products -->
-<!-- SUBTITLE: A quick summary of Products -->
+<!-- SUBTITLE: Product settings for the shop -->
 
 # Header
+Product types
