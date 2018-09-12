@@ -11,12 +11,12 @@ Find the product menu on the left hand side of the dashboard
 
 ![Product Menu](/uploads/product-menu.png "Product Menu")
 
-click "Add New" from the products sub menu. You can also click on the "products" heading and it will take you to all products, from there the hovering menu is displayed under the products heading.
+click **Add New** from the products sub menu. You can also click on the **Products** heading and it will take you to all products, from there the hovering menu is displayed under the products heading.
 
 # Add New Product
 ![Add New Product](/uploads/add-new-product.png "Add New Product")
 
-You are now creating a new product. You can save at any time by hitting the "Save Draft" button on the top right, this will keep the product hidden from the store until it's completed and ready to go.
+You are now creating a new product. You can save at any time by hitting the **Save Draft** button on the top right, this will keep the product hidden from the store until it's completed and ready to go.
 
 In order to reduce the places around the site we need to edit text all products should use [shortcodes](#) to display as much information as possible. 
 For this example you will create a Killington Snow Fiend Trip for November 17th, 2018.
@@ -24,12 +24,12 @@ For this example you will create a Killington Snow Fiend Trip for November 17th,
 # Set the title
 Titles should follow a standard format. The format is {**DESTINATION NAME**} {**TRIP TYPE**} . Dates should be avoided in product titles, all trip products have a date field and the date should be displayed in appropriate places around the shop/site. If you spot a location where the date is missing or looks wrong contact [devops@ovrride.com](mailto:devops@ovrride.com).
 
-For this trip the title would be "Killington Snow Fiend" .
-Enter the title in the title box at the top of the page and click "Save Draft".
+For this trip the title would be **Killington Snow Fiend** .
+Enter the title in the title box at the top of the page and click **Save Draft**.
 
 # Change product type
-Find the "Product Data" section on the form and select "Trips Product" from the dropdown. 
-Make sure the "Virtual" checkbox is checked.
+Find the **Product Data** section on the form and select **Trips Product** from the dropdown. 
+Make sure the **Virtual** checkbox is checked.
 Save draft.
 
 # Set SKU and Permalink
