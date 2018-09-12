@@ -79,7 +79,18 @@ clicking the disclosure triangle in the upper right hand corner of a menu item a
 * Click **Save Menu** button in the upper right hand corner of the window
 
 ### Adding an item
+![Menu Categories](/uploads/menu-categories.png "Menu Categories")
 
+There are quite a few options here. Typically our menu is made up of only **Pages, Products and Custom Links**. Some of the other categories may not give you the output you're expecting.
+
+![Menu Pages](/uploads/menu-pages.png "Menu Pages")
+
+Each category will look like this. Pages will be the most common as it makes up all the **Destination** and **Bus Stop** pages/menu items.
+Here you can search for **Pages** by name and you also get a list of recently made **Pages**
+Select the checkbox for the item you wish to add and them clickthe **add to menu** button in the bottom right corner of the box.
+
+####New items will be added to the bottom of the menu.
+	See (above)[]
 - Now you will see the menu displayed in boxes
 - To re arrange the menu just drag the boxes up and down the list
 - To add items use the search on the left to find your page, select it and hit add to menu
