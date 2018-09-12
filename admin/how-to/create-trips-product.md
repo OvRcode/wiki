@@ -6,4 +6,6 @@
 
 Your account will need to have either "Administrator","Shop manager" or "OvR Staff" roles assigned to create products. Contact [devops@ovrride.com](mailto:devops@ovrride.com) if you need to have your existing account upgraded.
 
-
+# Product Menu
+Find the product menu on the left hand side of the dashboard
+![Product Menu](/uploads/product-menu.png "Product Menu")
