@@ -17,3 +17,13 @@
 	* most of which take different routes through the city
 	* routes are determined the morning of each trip and are subject to change for many reasons.
 * OvRride can only guarantee you and your friend(s) will be on the same bus if you all get on at the same pickup location.
+
+### What time does the bus leave the mountain?
+* **4:30pm SHARP**
+	* except for:
+		* Camelback Fridays **10pm**
+		* Camelback Saturdays **8pm**
+		* Camelback Sundays **6pm**
+	* Last chair at most mountains is 4pm, so if you're quick you can probably grab last chair and make the bus on time.
+	* We have a policy of not leaving anyone behind, but please be courteous and arrive on time
+		* timely departures help get everyone home at a reasonable hour.
