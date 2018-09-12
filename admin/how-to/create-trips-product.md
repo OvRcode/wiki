@@ -19,6 +19,7 @@ You are now creating a new product. You can save at any time by hitting the "Sav
 
 In order to reduce the places around the site we need to edit text all products should use [shortcodes](#) to display as much information as possible. 
 For this example you will create a Killington Snow Fiend Trip for November 17th, 2018.
+
 This product will feature the following packages and prices:
 
 | Package | Price |
@@ -29,4 +30,8 @@ This product will feature the following packages and prices:
 | Bus & Board Rental | 109.95 |
 | Bus & Ski Rental | 109.95 |
 | Bus Only | 79.95 |
- 
+
+This product will use the following pickups or bus stops:
+[HOWTO: Create a  pickup location](#)
+| Name | Time |
+| --- | --- |
