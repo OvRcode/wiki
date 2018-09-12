@@ -91,6 +91,19 @@
 
 
 ## Booking
+### How do I get my Lift Ticket?
+* Tickets are purchased as part of a package with OvRride
+* When you arrive at the mountain
+	* Your trip leader will have preordered tickets
+	* As you exit the bus your trip leaders will distribute to your lift tickets and any other vouchers
+		* like lessons and rentals, which can be redeemed at the mountain
+* OvRride **cannot** replace any lost lift tickets, vouchers or lesson passes
+* Make sure you fasten your lift ticket in a secure place
+	* so it won't get caught on anything
+* Most tickets have a perforated stub which you should save in a safe place
+	* this reciept can usually be used to replace a lost or missing ticket at the ticket window
+
+
 ### I booked a weekend trip with OvR….Can I lodge with my friend(s)?
 * You can indeed request to lodge with your friend(s) or significant other
 	* please email [lodging@ovrride.com](mailto:lodging@ovrride.com)
