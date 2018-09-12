@@ -59,7 +59,7 @@
 		*  boots
 		* helmet
 	* You can purchase a discounted rental package through OvRride when you book your trip and you will receive it when we arrive at the mountain.
-* Soft goods CANNOT be rented at the mountain, but you may be able to rent them through our partners at Kitlender.com
+* Soft goods CANNOT be rented at the mountain, but you may be able to rent them through our partners at [Kitlender.com](https://www.kitlender.com/?rfsn=911277.146343)
 	* if you arrange these rentals well in advance.. 
 	* Soft goods include 
 		* jackets 
@@ -68,3 +68,33 @@
 		*  gloves
 		* socks etc… 
 	* Shops where we pickup are generally not open when we depart NYC in the morning, however, there are shops at the mountain lodges where you can purchase these items if you need or forget something on the day of the trip
+
+
+## Booking
+### I booked a weekend trip with OvR….Can I lodge with my friend(s)?
+* You can indeed request to lodge with your friend(s) or significant other
+	* please email [lodging@ovrride.com](mailto:lodging@ovrride.com)
+		* please provide the following details:
+			* Trip destination and dates
+			* Your name
+			* Friend(s) name(s)
+			* Order number(s)
+	* Please note we try to the best of our abilities to meet accomodation requests but OvRride is subject to the availability at our lodging providers and we may not be able to meet some requests.
+
+### Do you guys do weekend trips to Hunter, Windham, Stratton or Mount Snow?
+* We do not provide overnight trips to Hunter, Windham Stratton or Mount Snow
+* We do have weekend trips available for other destinations throughout the season
+	* Killington
+	* Sugarbush
+	* Stowe
+	* Find these and more under **Destinations** on the ovrride.com menu
+
+### I’m booked for a day trip, can I stay there overnight, and come back another day with OvR?
+* You absolutely can choose to stay at the mountain rather than come back on the same day
+	*  will have to book two separate tickets for each day you’ll be traveling and pay the amount of both of these trips.
+	*  So let’s say you need a bus ride and lift tickets for both Saturday and Sunday 
+		*  Purchase the Bus and Lift Package (You can add lessons, rentals, etc.) for Saturday as well as for Sunday. 
+		*  Inform the trip leader you will not be returning with the bus Saturday. 
+		*  On Sunday you will need to meet the trip leader for that day who will provide you with your mountain product for Sunday as well as inform you which bus to board for your return trip.
+	*  Email [info@OvRride.com](mailto:info@ovrride.com) of your plans so we can provide our trip leaders with your contact information and make the proper arrangements.
+
