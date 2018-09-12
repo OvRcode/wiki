@@ -46,4 +46,6 @@ This field is rarely used. This could be used to charge extra for a certain stop
 Values in this field should either be whole numbers 1,2,3 or decimal numbers 13.20, 11.99, etc. Dollar signs should **NOT** be added to this field.
 
 # Publish
-![Location Cost](/uploads/location-cost.png "Location Cost")
+![Publishing](/uploads/publishing.png "Publishing")
+
+When you're done click **Publish** to make this stop availble for use on products or **Save Draft** to save but keep it un-published.
