@@ -28,3 +28,12 @@ The title is displayed both in the admin interace when creating/editing trips an
 Times are set in 12hr time using a field with specific formatting.
 
 # Set address
+![Location Address](/uploads/location-address.png "Location Address")
+
+This is the street address for the stop. It's important this is right so that guests get the right addresses on the booking forms and on confirmation emails.
+Addresses need to be in the following format in this field: 
+123 fake st, new york, ny 11206
+
+# Set cross streets
+
+The cross streets field can be used to help guests find this location. Often you would enter things like nearest street corner but sometimes it's useful, like at union square, to call out that the address is in the North West Corner of the park. Usually it would be a value like **Broadway & 86th st**
