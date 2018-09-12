@@ -11,3 +11,15 @@ Find the product menu on the left hand side of the dashboard
 ![Product Menu](/uploads/product-menu.png "Product Menu")
 
 click "Add New" from the products sub menu. You can also click on the "products" heading and it will take you to all products, from there the hovering menu is displayed under the products heading.
+
+# Add New Product
+![Add New Product](/uploads/add-new-product.png "Add New Product")
+
+You are now creating a new product. You can save at any time by hitting the "Save Draft" button on the top right, this will keep the product hidden from the store until it's completed and ready to go.
+
+In order to reduce the places around the site we need to edit text all products should use [shortcodes](#) to display as much information as possible. 
+For this example you will create a Killington Snow Fiend Trip for November 17th, 2018.
+This product will feature the following packages and prices:
+
+| Package | Price |
+| -------------| --------|
