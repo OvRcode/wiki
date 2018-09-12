@@ -18,3 +18,4 @@ From the menu on the left side of the admin dashboard hover over **Pickup Locati
 ![New Location](/uploads/new-location.png "New Location")
 
 # Set title
+![Location Title](/uploads/location-title.png "Location Title")
