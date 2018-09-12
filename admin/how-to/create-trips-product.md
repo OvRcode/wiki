@@ -22,4 +22,11 @@ For this example you will create a Killington Snow Fiend Trip for November 17th,
 This product will feature the following packages and prices:
 
 | Package | Price |
-| -------------| --------|
+| --- | --- |
+| All Area Lift & Bus | 119.95 |
+| All Area Lift, Bus & Board Rental | 149.95 |
+| All Area Lift, Bus & Ski Rental | 149.95 |
+| Bus & Board Rental | 109.95 |
+| Bus & Ski Rental | 109.95 |
+| Bus Only | 79.95 |
+ 
