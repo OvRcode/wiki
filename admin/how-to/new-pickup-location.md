@@ -38,3 +38,12 @@ Addresses need to be in the following format in this field:
 ![Location Cross Streets](/uploads/location-cross-streets.png "Location Cross Streets")
 
 The cross streets field can be used to help guests find this location. Often you would enter things like nearest street corner but sometimes it's useful, like at union square, to call out that the address is in the North West Corner of the park. Usually it would be a value like **Broadway & 86th st**
+
+# Cost
+![Location Cost](/uploads/location-cost.png "Location Cost")
+
+This field is rarely used. This could be used to charge extra for a certain stop or bus costs could be moved from a package to the stop.
+Values in this field should either be whole numbers 1,2,3 or decimal numbers 13.20, 11.99, etc. Dollar signs should **NOT** be added to this field.
+
+# Publish
+![Location Cost](/uploads/location-cost.png "Location Cost")
