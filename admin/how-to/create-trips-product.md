@@ -168,7 +168,16 @@ Make sure the product has the following things tagged in categories
 	* Also tag the neighborhoods these stops are in like **Brooklyn** **Manhattan**, ETC
 
 
-# Featured image
+# Product image
+![Product Image](/uploads/product-image.png "Product Image")
 
+Click the **Set product image** link and find image in the media library.
+For killington you can search for ```killington_long.jpg``` which is a 150x50px logo for the mountain.
+In general if you search for the mountain name you should find a 150x50px logo for it some where in the library.
+
+This image sits above the product title on the product page.
+
+ # Post Expiration
+ 
 # Publish
 That's it! As soon as you click publish the product is ready to go
