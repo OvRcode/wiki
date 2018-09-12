@@ -178,6 +178,6 @@ In general if you search for the mountain name you should find a 150x50px logo f
 This image sits above the product title on the product page.
 
  # Post Expiration
- 
+ Products can be set to expire using the post expirator plugin: [HOW TO: Setting post expiration](#)
 # Publish
 That's it! As soon as you click publish the product is ready to go
