@@ -118,3 +118,15 @@
 		*  On Sunday you will need to meet the trip leader for that day who will provide you with your mountain product for Sunday as well as inform you which bus to board for your return trip.
 	*  Email [info@OvRride.com](mailto:info@ovrride.com) of your plans so we can provide our trip leaders with your contact information and make the proper arrangements.
 
+
+### What is the age restriction?
+* On some trips we may be required by sponsors to limit the age to 18+ or 21+
+	* this will be marked clearly on the trip page
+* Otherwise:
+	* All our guests 18 or over are welcome to join us without restriction
+	* Under 14, must be accompanied by an adult
+	* 14-17 years of age with waiver
+		*  must be signed by a parent or guardian 
+		*  with a copy of that parent or guardian’s ID and credit card prior to the trip and given to the trip leader.
+	
+
