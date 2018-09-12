@@ -91,6 +91,29 @@
 
 
 ## Booking
+### What is OvRride’s Cancellation Policy?
+* In the event you need to cancel your day trip
+	* **OvRride requires 48 hour notice from the departure date of the trip**
+	* Cancellations with sufficient notice will be issued a full refund
+		* OR move the reservation to another day/trip. 
+	* In the event you cancel within 48 hours of the departure date or miss the bus for a day trip
+		* in order to aacount for the cost of the bus seat you will be refunded
+			* Cost of trip **minus** $59.95 for all Catskill or Pocono mountain trips
+			* Cost of trip **minus** $79.95 for all VT Mountains
+* In the event you need to cancel an overnight or weekend trip
+	* **OvRride requires 2 weeks notice before the departure date of the trip**
+	* Cancellations with sufficient notice will recieve a full refund
+	* Cancellations within 2 weeks are subject to loss of the trip deposit
+* Cancellations of trips requiring flights **domestically**
+	* **OvRride requires 30 days notice prior to the trip date**
+	* Cancellations with sufficient notice will be issued a full refund
+	* Cancellations with less than 30 days notice are subject to loss of trip deposit.
+* Cancellations of trips requiring flights **internationally**
+	* **OvRride requires 60 days notice prior to the trip date**
+	* All trips that include travel outside the USA require a 60 day cancellation to assure any refunds can be processed 
+	* Any refunds offered within the 60 day time period of a trip including airfare outside the USA, would only be offered if available with our third party partners (such as airlines) and within those partners’ guidelines – not guaranteed.
+* All requests to change or cancel a reservation **MUST** be recieved in written form to our guest services email [info@ovrride.com](mailto:info@ovrride.com)
+
 ### How do I get my Lift Ticket?
 * Tickets are purchased as part of a package with OvRride
 * When you arrive at the mountain
