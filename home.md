@@ -173,3 +173,8 @@
 		*  with a copy of that parent or guardian’s ID and credit card prior to the trip and given to the trip leader.
 	
 
+## Still have a question?
+* If you need any information on a trip or have to change/cancel your reservation
+	* please email [info@OvRride.com](info@ovrride.com)  
+	* call at 347.559.1787.
+* Customer service calls and emails are answered between the hours of 11AM and 7PM, 7 days a week
