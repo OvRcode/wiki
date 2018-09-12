@@ -96,7 +96,7 @@ Select the checkbox for the item you wish to add and them clickthe **add to menu
 Be sure to save your changes when done.
 	
 
-  ## Considerations
+## Considerations
 	* Types of items good for the menu
 		* Pages
 			* Things like Destinations, Bus Stops
