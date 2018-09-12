@@ -132,3 +132,21 @@ This product will feature the following packages and prices:
 | Bus & Board Rental | 109.95 |
 | Bus & Ski Rental | 109.95 |
 | Bus Only | 79.95 |
+
+To add a package click **Add Primary Package** then fill in the values from the table.
+Make sure to save a draft when you're done.
+
+# Product tabs
+![Includes Tab](/uploads/includes-tab.png "Includes Tab")
+Tabs shown on the front end are populated by setting a shortcode on the product. 
+
+Just set the shortcode in the text field and then save a draft or publish. 
+
+Empty tab fields will result in tabs that don't show up on the product.
+
+You will want to check and make sure the short code exists by checking the [All shortcodes Page](https://ovrride.com/wp-admin/edit.php?post_type=sm_shortcode)
+
+You can make new shortcodes from the all shortcodes page. Be sure the title has _ instead of spaces and no special characters.
+
+
+#### That's it! As soon as you click publish the product is ready to go
