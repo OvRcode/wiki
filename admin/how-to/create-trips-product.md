@@ -150,4 +150,4 @@ You will want to check and make sure the short code exists by checking the [All 
 You can make new shortcodes from the all shortcodes page. Be sure the title has _ instead of spaces and no special characters.
 
 
-#### That's it! As soon as you click publish the product is ready to go
+### That's it! As soon as you click publish the product is ready to go
