@@ -63,6 +63,12 @@
 		* This will save them the trouble of looking for you at the end of the day and possibly holding up the bus. 
 		*  If you plan on returning to NYC with us on another date, you will need to book that return bus ride separately and email [info@OvRride.com](mailto:info@ovrride.com) to let us know of your plan so we know to expect you on the bus ride home.
 
+### What happens if I left something on the bus?
+* Contact [info@ovrride.com](mailto:info@ovrride.com)
+	* OvR does a sweep of the bus after each trip
+	* Include a description of the item, date and destination of trip
+	* We will let you know if we found your item in the lost and found
+		* during peak season response times from info@ovrride.com may be 24-48hrs
 ## Gear
 
 ### What equipment do I need to bring with me for the trip?
