@@ -90,7 +90,7 @@ Here you can search for **Pages** by name and you also get a list of recently ma
 Select the checkbox for the item you wish to add and them clickthe **add to menu** button in the bottom right corner of the box.
 
 ### New items will be added to the bottom of the menu
-	See (Moving menu items)[#menu-items-can-be-dragged-into-place]
+[Moving menu items](#menu-items-can-be-dragged-into-place)
 	
 - Now you will see the menu displayed in boxes
 - To re arrange the menu just drag the boxes up and down the list
