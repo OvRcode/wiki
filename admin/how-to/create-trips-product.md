@@ -117,3 +117,12 @@ Add the following locations/times by selecting them one at a time from the dropd
 
 If the location/time combination doesn't exist you can either [HOWTO: create a new pickup location](https://wiki.ovrride.com/admin/how-to/new-pickup-location) or [HOWTO:  Modify pickup location](#)
 Keep in mind that if you edit an existing pickup location it would change the information for ANY trip potentially using the location your're editing, it's more often safer to create a new pickup if you're not sure about what other trips you might effect.
+
+Locations are automatically saved when added to the pickup location list, no need to save a draft or update.
+
+It **should be possible** to drag an rearrange the stops in this list, there is currently a bug causing that not to happen.
+
+# Package tabs
+Primary, secondary and tertiary packages all have the same options and settings. For this trip we are only using the primary field.
+
+## Primary Package Tab
