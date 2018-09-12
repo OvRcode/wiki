@@ -11,4 +11,4 @@ Your account will need to have either "Administrator","Shop manager" or "OvR Sta
 ![New Pickup Location](/uploads/new-pickup-location.png "New Pickup Location")
 
 From the menu on the left side of the admin dashboard hover over "Pickup Locations" and click "Add location". 
-**You can also click on the "Pickup Locations" heading and then when the "All Pickup Locations" page loads the sub menu will show under the heading.
+*You can also click on the "Pickup Locations" heading and then when the "All Pickup Locations" page loads the sub menu will show under the heading.*
