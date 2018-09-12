@@ -2,7 +2,7 @@
 <!-- SUBTITLE: You've got questions we've got answers -->
 
 # Frequently Asked Questions
-## Bus pickup
+## Bus
 
 ###  How does the bus pickup work in the morning?
 * The bus pickup times and locations vary from trip to trip
