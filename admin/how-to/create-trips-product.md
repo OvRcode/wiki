@@ -38,3 +38,17 @@ This product will use the following pickups or bus stops:
 | Cobble Hill, BK | 03:45am |
 | Union Square (NW of UNSQ Park) | 04:00am |
 | The North Face UWS | 04:30am |
+
+# Set the title
+Titles should follow a standard format. The format is **DESTINATION NAME** **TRIP TYPE** . Dates should be avoided in product titles, all trip products have a date field and the date should be displayed in appropriate places around the shop/site. If you spot a location where the date is missing or looks wrong contact [devops@ovrride.com](mailto:devops@ovrride.com).
+
+For this trip the title would be "Killington Snow Fiend" .
+Enter the title in the title box at the top of the page and click "Save Draft".
+
+# Change product type
+Find the "Product Data" section on the form and select "Trips Product" from the dropdown. 
+Make sure the "Virtual" checkbox is checked.
+Save draft.
+
+# Set SKU and URL
+SKU is a unique identifer for this product. SKUs should follow the format **DESTINATION CODE**-**2 digit month**-**2 digit day**-**2 digit year** .
