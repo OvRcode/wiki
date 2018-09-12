@@ -109,6 +109,6 @@ Be sure to save your changes when done.
 		* Shortcodes
 			* Almost definetly going to cause issues, best to stear clear of these
 
-	### Menu can only be two levels deep
-	This is a limit imposed by part of our theme but it's good practice. The reason it's good to keep the menu nesting down is because deep menus are bad on mobile.
+### Menu can only be two levels deep
+This is a limit imposed by part of our theme but it's good practice. The reason it's good to keep the menu nesting down is because deep menus are bad on mobile.
 	
