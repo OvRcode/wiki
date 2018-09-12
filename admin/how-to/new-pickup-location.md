@@ -19,3 +19,12 @@ From the menu on the left side of the admin dashboard hover over **Pickup Locati
 
 # Set title
 ![Location Title](/uploads/location-title.png "Location Title")
+
+The title is displayed both in the admin interace when creating/editing trips and also on the product booking forms. Make sure the title is acurate, descriptive and the same as other titles for the same stop for consistency. 
+
+# Set time
+![Location Time](/uploads/location-time.png "Location Time")
+
+Times are set in 12hr time using a field with specific formatting.
+
+# Set address
