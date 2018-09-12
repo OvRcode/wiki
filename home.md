@@ -19,7 +19,7 @@
 * OvRride can only guarantee you and your friend(s) will be on the same bus if you all get on at the same pickup location.
 
 ### What time does the bus leave the mountain?
-*&nbsp;**4:30pm SHARP**
+* &nbsp;**4:30pm SHARP**
 	* except for:
 			* Camelback Fridays **10pm**
 			* Camelback Saturdays **8pm**
