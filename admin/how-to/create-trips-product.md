@@ -31,14 +31,6 @@ This product will feature the following packages and prices:
 | Bus & Ski Rental | 109.95 |
 | Bus Only | 79.95 |
 
-This product will use the following pickups or bus stops:
-| Name | Time |
-| --- | --- |
-| Skate Brooklyn | 03:30am |
-| Cobble Hill, BK | 03:45am |
-| Union Square (NW of UNSQ Park) | 04:00am |
-| The North Face UWS | 04:30am |
-
 # Set the title
 Titles should follow a standard format. The format is {**DESTINATION NAME**} {**TRIP TYPE**} . Dates should be avoided in product titles, all trip products have a date field and the date should be displayed in appropriate places around the shop/site. If you spot a location where the date is missing or looks wrong contact [devops@ovrride.com](mailto:devops@ovrride.com).
 
@@ -97,3 +89,31 @@ Settings and explanation
 * End Date: November 17, 2018
 	* Clicking this field should bring up a date picker
 	* Setting this field helps the trip show up on the calendar and events fields properly
+* Coupons: None
+	* this field could be used to send coupon codes to customers who purchase this product, it's not something we use often.
+
+Make sure to save your daft after entering these values.
+
+# Linked Products Tab
+Nothing to do here. <!-- TODO: add link to page describing options here -->
+
+# Attributes Tab
+Nothing to do here. <!-- TODO: add link to page describing options here -->
+
+# Advanced Tab
+Nothing to do here. <!-- TODO: add link to page describing options here -->
+
+# Pickup Locations Tab
+![New Pickup](/uploads/new-pickup.png "New Pickup")
+
+Add the following locations/times by selecting them one at a time from the dropdown and clicking the "Add Pickup Location" button.
+
+| Name | Time |
+| --- | --- |
+| Skate Brooklyn | 03:30am |
+| Cobble Hill, BK | 03:45am |
+| Union Square (NW of UNSQ Park) | 04:00am |
+| The North Face UWS | 04:30am |
+
+If the location/time combination doesn't exist you can either [HOWTO: create a new pickup location](#) or [HOWTO:  Modify pickup location](#)
+Keep in mind that if you edit an existing pickup location it would change the information for ANY trip potentially using the location your're editing, it's more often safer to create a new pickup if you're not sure about what other trips you might effect.
