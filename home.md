@@ -29,7 +29,7 @@
 		* timely departures help get everyone home at a reasonable hour.
 
 ###  What time do we get back to the city?
-* ** Weather, traffic and other unforseen circumstances may slow us down or change our route. The safety and comfort of our guests is always most important.**
+* **Weather, traffic and other unforseen circumstances may slow us down or change our route. The safety and comfort of our guests is always most important.**
 * Estimates by destination:
 	* Catskills, 7-8pm
 	* VT day trips, 9:30-10:30pm
