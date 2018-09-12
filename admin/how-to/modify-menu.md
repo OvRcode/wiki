@@ -91,16 +91,10 @@ Select the checkbox for the item you wish to add and them clickthe **add to menu
 
 ### New items will be added to the bottom of the menu
 [Moving menu items](#menu-items-can-be-dragged-into-place)
+
+Be sure to save your changes when done.
 	
-- Now you will see the menu displayed in boxes
-- To re arrange the menu just drag the boxes up and down the list
-- To add items use the search on the left to find your page, select it and hit add to menu
-  - New items show up in the bottom of the menu and will need to be dragged up to their desired location.
-- Remove item
-  - click on item
-  - item details will show
-  - click remove link
-- Make sure to hit "save menu" when done
+
   
 a few things to consider when manipulating the menu
   - You can put different types of links but we typically would only use "page" links
