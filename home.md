@@ -103,6 +103,13 @@
 * Most tickets have a perforated stub which you should save in a safe place
 	* this reciept can usually be used to replace a lost or missing ticket at the ticket window
 
+### Can I buy a ticket(s) on the bus the morning of a trip?
+* We hope to be able to accommodate walk-ons on the day of the trip but make no guarantees. 
+* Show up with cash in hand for the package that you wish to purchase 
+	* (i.e. bus only, bus/lift, bus/lift/rental, beginner package).
+* Please note that if you walk-on prior to the last stop on a fully booked bus, you may ride up to the last stop hoping that someone doesn’t show
+	* In the event that everyone shows, you may be left at the last stop.
+
 
 ### I booked a weekend trip with OvR….Can I lodge with my friend(s)?
 * You can indeed request to lodge with your friend(s) or significant other
