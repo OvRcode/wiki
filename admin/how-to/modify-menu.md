@@ -29,6 +29,12 @@ Menus can be found from the **Appearance** heading in the admin dashboard
 	*  Summer menu
 
 ## Select menu to edit
+![Select Menu](/uploads/select-menu.png "Select Menu")
+
+Select menu to edit from drop down. Most likely Main menu or Main Menu Summer. If you see brackets with text like ```(Main Menu Collapse)``` it means the menu is assigned to an area to be displayed.
+
+click the **Select** button to continue.
+
 
 Changing the Menu
 - Log into Wordpress admin dashboard
