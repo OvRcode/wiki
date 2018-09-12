@@ -95,8 +95,19 @@ Select the checkbox for the item you wish to add and them clickthe **add to menu
 Be sure to save your changes when done.
 	
 
-  
-a few things to consider when manipulating the menu
-  - You can put different types of links but we typically would only use "page" links
-  - "Shortcodes" "pickup locations" and "destinations" should be avoided as menu links (they're the behind the scenes post types we use and won't give you the expected link in the menu)
-  - Our current theme doesn't allow for multi level menus, wordpress in general does but with this specific system that isn't an option.
+  ## Considerations
+	* Types of items good for the menu
+		* Pages
+			* Things like Destinations, Bus Stops
+		* Products
+			* Could put a link in the menu to a certain product in the shop
+		* Custom Links
+			* enter a custom url to any site
+		* Other types
+			* Make sure you know what you're doing here, other types are often custom post types added by plugins and might give you weird results
+			* Shortcodes
+				* Almost definetly going to cause issues, best to stear clear of these
+
+	### Menu can only be two levels deep
+	This is a limit imposed by part of our theme but it's good practice. The reason it's good to keep the menu nesting down is because deep menus are bad on mobile.
+	
