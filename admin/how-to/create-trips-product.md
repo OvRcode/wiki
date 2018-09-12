@@ -174,9 +174,7 @@ Make sure the product has the following things tagged in categories
 Click the **Set product image** link and find image in the media library.
 For killington you can search for ```killington_long.jpg``` which is a 150x50px logo for the mountain.
 In general if you search for the mountain name you should find a 150x50px logo for it some where in the library.
-
 This image sits above the product title on the product page.
-
  # Post Expiration
  Products can be set to expire using the post expirator plugin: [HOW TO: Setting post expiration](#)
 # Publish
