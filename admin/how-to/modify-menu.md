@@ -7,18 +7,17 @@
 The menu bar at the top of the site is actually two menus. There's the logo and booking link on the left and the links on the right which collapse on small screens.
 
 # Accessing Menus
-![Apearance Menu](/uploads/apearance-menu.png "Apearance Menu")
-
-Menus can be found from the **Appearance** heading in the admin dashboard
-
-# Modifying a menu
-
 ## Log into admin dashboard
 [https://ovrride.com/wp-admin](https://ovrride.com/wp-admin)
 
 ## Select **Menus** from the **Appearance** heading
 ![Apearance Menu](/uploads/apearance-menu.png "Apearance Menu")
 
+Menus can be found from the **Appearance** heading in the admin dashboard
+
+
+
+# Modifying a menu
 ## Current menus
 * Logo and Booking
 	*  OvRride Logo and link to shop, sits on left side of screen
