@@ -50,5 +50,12 @@ Find the "Product Data" section on the form and select "Trips Product" from the 
 Make sure the "Virtual" checkbox is checked.
 Save draft.
 
-# Set SKU and URL
+# Set SKU and Permalink
 SKU is a unique identifer for this product. SKUs should follow the format **DESTINATION CODE**-**2 digit month**-**2 digit day**-**2 digit year** .
+
+![Sku](/uploads/sku.png "Sku")
+Insert the SKU for this example under the "General" tab using the SKU field add the value **K-11-17-18**
+
+The permalink is the address where the product will be available. By default WooCommerce uses a version of the title but that can be long and ugly. The permalink should be a unique value. Since the permalink should be short **and** unique the SKU should be used in this field too.
+![Permalink](/uploads/permalink.png "Permalink")
+Set the permalink by hitting the "edit" button next to the permalink under the title at the top of the page. Click "ok" to save the permalink.
