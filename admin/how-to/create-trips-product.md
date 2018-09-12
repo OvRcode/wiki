@@ -20,17 +20,6 @@ You are now creating a new product. You can save at any time by hitting the "Sav
 In order to reduce the places around the site we need to edit text all products should use [shortcodes](#) to display as much information as possible. 
 For this example you will create a Killington Snow Fiend Trip for November 17th, 2018.
 
-This product will feature the following packages and prices:
-
-| Package | Price |
-| --- | --- |
-| All Area Lift & Bus | 119.95 |
-| All Area Lift, Bus & Board Rental | 149.95 |
-| All Area Lift, Bus & Ski Rental | 149.95 |
-| Bus & Board Rental | 109.95 |
-| Bus & Ski Rental | 109.95 |
-| Bus Only | 79.95 |
-
 # Set the title
 Titles should follow a standard format. The format is {**DESTINATION NAME**} {**TRIP TYPE**} . Dates should be avoided in product titles, all trip products have a date field and the date should be displayed in appropriate places around the shop/site. If you spot a location where the date is missing or looks wrong contact [devops@ovrride.com](mailto:devops@ovrride.com).
 
@@ -126,3 +115,20 @@ It **should be possible** to drag an rearrange the stops in this list, there is 
 Primary, secondary and tertiary packages all have the same options and settings. For this trip we are only using the primary field.
 
 ## Primary Package Tab
+![Primary Packages](/uploads/primary-packages.png "Primary Packages")
+Options and settings:
+* Enable Package Stock: unchecked
+* Optional Package: unchecked
+* Primary Package Label: Packages
+
+
+This product will feature the following packages and prices:
+
+| Package | Price |
+| --- | --- |
+| All Area Lift & Bus | 119.95 |
+| All Area Lift, Bus & Board Rental | 149.95 |
+| All Area Lift, Bus & Ski Rental | 149.95 |
+| Bus & Board Rental | 109.95 |
+| Bus & Ski Rental | 109.95 |
+| Bus Only | 79.95 |
