@@ -97,7 +97,7 @@
 	* Cancellations with sufficient notice will be issued a full refund
 		* OR move the reservation to another day/trip. 
 	* In the event you cancel within 48 hours of the departure date or miss the bus for a day trip
-		* in order to aacount for the cost of the bus seat you will be refunded
+		* in order to account for the cost of the bus seat you will be refunded
 			* Cost of trip **minus** $59.95 for all Catskill or Pocono mountain trips
 			* Cost of trip **minus** $79.95 for all VT Mountains
 * In the event you need to cancel an overnight or weekend trip
