@@ -8,6 +8,7 @@ Your account will need to have either "Administrator","Shop manager" or "OvR Sta
 
 # Product Menu
 Find the product menu on the left hand side of the dashboard
+
 ![Product Menu](/uploads/product-menu.png "Product Menu")
 
 click "Add New" from the products sub menu. You can also click on the "products" heading and it will take you to all products, from there the hovering menu is displayed under the products heading.
