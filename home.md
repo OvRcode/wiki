@@ -49,6 +49,20 @@
 	* The first is before we hit the highway to stock up on snacks, beverages, or anything you may need for the trip.
 	* The second is at the same rest stop we visit in the morning.
 
+### What if I only need a one way bus ride to or from the mountain?
+* You’re more than welcome to grab a ride with us up to any of our mountain destinations
+* You are never obligated to come back with us. 
+* There is no distinction between a one way ticket and a round trip ticket.
+	* The bus only rate is based on the value of the seat
+		* Cost for bus only reservation to Hunter and Windham is $59.95
+		* Cost for bus only reservation to any Vermont mountain is $79.95
+		* Rates are based on day trips
+		* Rates will vary for weekend or longer trips
+	* Please inform your trip leader in the morning that you will not be returning on the bus ride home
+		* We take pride in making sure we don’t abandon any of our customers at the mountain
+		* This will save them the trouble of looking for you at the end of the day and possibly holding up the bus. 
+		*  If you plan on returning to NYC with us on another date, you will need to book that return bus ride separately and email [info@OvRride.com](mailto:info@ovrride.com) to let us know of your plan so we know to expect you on the bus ride home.
+
 ## Gear
 
 ### What equipment do I need to bring with me for the trip?
