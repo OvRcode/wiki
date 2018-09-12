@@ -57,5 +57,43 @@ SKU is a unique identifer for this product. SKUs should follow the format **DEST
 Insert the SKU for this example under the "General" tab using the SKU field add the value **K-11-17-18**
 
 The permalink is the address where the product will be available. By default WooCommerce uses a version of the title but that can be long and ugly. The permalink should be a unique value. Since the permalink should be short **and** unique the SKU should be used in this field too.
+
 ![Permalink](/uploads/permalink.png "Permalink")
-Set the permalink by hitting the "edit" button next to the permalink under the title at the top of the page. Click "ok" to save the permalink.
+Set the permalink by hitting the "edit" button next to the permalink under the title at the top of the page. 
+Use the SKU value **K-11-17-18** for the permalink value.
+Click "ok" to save the permalink.
+
+# General tab
+![General Tab](/uploads/general-tab.png "General Tab")
+Settings and explanation
+* Manage Product Stock: Yes
+	* Yes = Manage Stock on this product
+	* No = No stock management, could be used if there was stock management on packages
+* Stock Status: Instock
+	* Instock: product is in stock and purchasable
+	* Out of stock: product is not purchasable, could still be visible
+* Stock: 50
+	* 52 passengers per bus - Trip Leader - Second
+* Base Price: 0
+	* Field could be used to set a price and have packages add onto that base.
+* Destination: Killington
+	* If this is the first trip to a destination you might need [HOWTO: Setup a destination](#)
+	* This setting helps populate:
+		* lists mountain contact info
+		* trail map on the products
+		* mountain specific lesson age restrictions
+* Trip type: Bus
+	* Bus: Day/Multi-day trips with packages
+	* Beach Bus: Day trips with multiple packages and 2 bus routes
+	* Flight domestic/international: Trips with flights, forms are different for domestic/international
+* Age Check: 18
+	* limits the age for people signing up for the trip
+	* values: 18, 18+, 21, 21+
+	* values with + have a hard limit on age
+	* values without + allow underage and display ovrride age policy on the form
+* Start Date: November 17, 2018
+	* Clicking this field should bring up a date picker
+	* Setting this field helps the trip show up on the calendar and events fields properly
+* End Date: November 17, 2018
+	* Clicking this field should bring up a date picker
+	* Setting this field helps the trip show up on the calendar and events fields properly
