@@ -32,6 +32,9 @@ This product will feature the following packages and prices:
 | Bus Only | 79.95 |
 
 This product will use the following pickups or bus stops:
-[HOWTO: Create a  pickup location](#)
 | Name | Time |
 | --- | --- |
+| Skate Brooklyn | 03:30am |
+| Cobble Hill, BK | 03:45am |
+| Union Square (NW of UNSQ Park) | 04:00am |
+| The North Face UWS | 04:30am |
