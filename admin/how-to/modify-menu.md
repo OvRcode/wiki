@@ -35,15 +35,13 @@ Select menu to edit from drop down. Most likely Main menu or Main Menu Summer. I
 click the **Select** button to continue.
 
 
-Changing the Menu
-- Log into Wordpress admin dashboard
-- Go to Appearance and select "Menus"
-  - There are currently 3 menus
-    - "Logo and Booking" - Ovrride logo and book a trip link that shows on the left side of the menu
-    - "Main Menu" - Winter main menu
-    - "Main Menu Summer" - Summer menu
-    - You will pretty much never need to edit the "Logo and Booking" menu.
-- Select "Main Menu Summer" from the drop down at the top of the page then click the "select" button
+## Menu view
+![Menus](/uploads/menus.png "Menus")
+
+Menu items are displayed in boxes.
+
+### Menu items can be dragged into order
+
 - Now you will see the menu displayed in boxes
 - To re arrange the menu just drag the boxes up and down the list
 - To add items use the search on the left to find your page, select it and hit add to menu
