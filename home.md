@@ -91,7 +91,7 @@
 
 ### I’m booked for a day trip, can I stay there overnight, and come back another day with OvR?
 * You absolutely can choose to stay at the mountain rather than come back on the same day
-	*  will have to book two separate tickets for each day you’ll be traveling and pay the amount of both of these trips.
+	*  You will have to book two separate tickets for each day you’ll be traveling and pay the amount of both of these trips.
 	*  So let’s say you need a bus ride and lift tickets for both Saturday and Sunday 
 		*  Purchase the Bus and Lift Package (You can add lessons, rentals, etc.) for Saturday as well as for Sunday. 
 		*  Inform the trip leader you will not be returning with the bus Saturday. 
