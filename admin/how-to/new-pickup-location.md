@@ -49,3 +49,5 @@ Values in this field should either be whole numbers 1,2,3 or decimal numbers 13.
 ![Publishing](/uploads/publishing.png "Publishing")
 
 When you're done click **Publish** to make this stop availble for use on products or **Save Draft** to save but keep it un-published.
+
+If you're creating a new product you will need to save what you've done and reload the page to get the new pickup to show up in the dropdown.
