@@ -17,7 +17,7 @@ Menus can be found from the **Appearance** heading in the admin dashboard
 [https://ovrride.com/wp-admin](https://ovrride.com/wp-admin)
 
 ## Select **Menus** from the **Appearance** heading
-![Select Menu](/uploads/select-menu.png "Select Menu")
+![Apearance Menu](/uploads/apearance-menu.png "Apearance Menu")
 
 ## Current menus
 * Logo and Booking
