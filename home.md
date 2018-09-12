@@ -35,3 +35,16 @@
 	* VT day trips, 9:30-10:30pm
 	* Camelback (varies), 7:30pm - 12am
 
+### Can you drop me off on my corner? It’s on the way.
+* We **CANNOT** accommodate any personal drop off locations. 
+* We have permits for pick up and drop off locations and can be subject to heavy fines for stopping elsewhere.
+
+### Are there any stops on the way up?
+* For Catskills or Pocono Mountains, no, since the trips are not very long
+* For VT, we try to make a brief stop about half way to the mountains at a rest area
+	* Our goal is to get to the mountain as early as possible and enjoy the most of the day
+
+### Are there any stops on the way back?
+* Coming back from VT we typically make 2 stops:
+	* The first is before we hit the highway to stock up on snacks, beverages, or anything you may need for the trip.
+	* The second is at the same rest stop we visit in the morning.
