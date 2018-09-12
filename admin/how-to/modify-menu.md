@@ -38,9 +38,47 @@ click the **Select** button to continue.
 ## Menu view
 ![Menus](/uploads/menus.png "Menus")
 
-Menu items are displayed in boxes.
+Menu items are displayed in boxes. Existing items can be moved around by dragging.
 
 ### Menu items can be dragged into order
+![Menu Drag](/uploads/menu-drag.png "Menu Drag")
+
+### Menu items on the same level
+![Menu Drag 3](/uploads/menu-drag-3.png "Menu Drag 3")
+
+### Menu item nested under one level
+![Menu Drag](/uploads/menu-drag.png "Menu Drag")
+
+Watch the dotted outline to determine which level you're dropping the menu item into.
+**Our current theme DOES NOT SUPPORT menu items nested 2 or more layers deep**
+
+### Menu item reveal
+![Menu Item](/uploads/menu-item.png "Menu Item")
+
+clicking the disclosure triangle in the upper right hand corner of a menu item allows you to edit additional fields.
+* Navigation label
+	* Text that shows up in the menu for this item
+	* By default WordPress uses the title of the item you add
+* Title attribute
+	* this is ignored by our theme, can be left blank
+* Move
+	* with the links here you can move the item by clicking links to move:
+		* Up one  
+		* Down one  
+		* Out from under .....
+* Remove
+	*  removes menu item
+* Cancel
+	* closes menu item
+
+### Removing an item
+![Menu Item](/uploads/menu-item.png "Menu Item")
+
+* Click the disclosure triangle in the upper right hand corner of the item
+* Click the **Remove** link
+* Click **Save Menu** button in the upper right hand corner of the window
+
+### Adding an item
 
 - Now you will see the menu displayed in boxes
 - To re arrange the menu just drag the boxes up and down the list
