@@ -21,9 +21,9 @@
 ### What time does the bus leave the mountain?
 *&nbsp;**4:30pm SHARP**
 	* except for:
-		* Camelback Fridays **10pm**
-		* Camelback Saturdays **8pm**
-		* Camelback Sundays **6pm**
+			* Camelback Fridays **10pm**
+			* Camelback Saturdays **8pm**
+			* Camelback Sundays **6pm**
 	* Last chair at most mountains is 4pm, so if you're quick you can probably grab last chair and make the bus on time.
 	* We have a policy of not leaving anyone behind, but please be courteous and arrive on time
 		* timely departures help get everyone home at a reasonable hour.
