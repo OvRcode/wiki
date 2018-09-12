@@ -48,3 +48,23 @@
 * Coming back from VT we typically make 2 stops:
 	* The first is before we hit the highway to stock up on snacks, beverages, or anything you may need for the trip.
 	* The second is at the same rest stop we visit in the morning.
+
+## Gear
+
+### What equipment do I need to bring with me for the trip?
+* Hard goods can be rented from the mountain. 
+	* Hard goods include 
+		* snowboards
+		* skis
+		*  boots
+		* helmet
+	* You can purchase a discounted rental package through OvRride when you book your trip and you will receive it when we arrive at the mountain.
+* Soft goods CANNOT be rented at the mountain, but you may be able to rent them through our partners at Kitlender.com
+	* if you arrange these rentals well in advance.. 
+	* Soft goods include 
+		* jackets 
+		* pants
+		* goggles 
+		*  gloves
+		* socks etc… 
+	* Shops where we pickup are generally not open when we depart NYC in the morning, however, there are shops at the mountain lodges where you can purchase these items if you need or forget something on the day of the trip
