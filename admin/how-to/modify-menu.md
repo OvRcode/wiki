@@ -71,14 +71,14 @@ clicking the disclosure triangle in the upper right hand corner of a menu item a
 * Cancel
 	* closes menu item
 
-### Removing an item
+## Removing an item
 ![Menu Item](/uploads/menu-item.png "Menu Item")
 
 * Click the disclosure triangle in the upper right hand corner of the item
 * Click the **Remove** link
 * Click **Save Menu** button in the upper right hand corner of the window
 
-### Adding an item
+## Adding an item
 ![Menu Categories](/uploads/menu-categories.png "Menu Categories")
 
 There are quite a few options here. Typically our menu is made up of only **Pages, Products and Custom Links**. Some of the other categories may not give you the output you're expecting.
@@ -89,8 +89,9 @@ Each category will look like this. Pages will be the most common as it makes up 
 Here you can search for **Pages** by name and you also get a list of recently made **Pages**
 Select the checkbox for the item you wish to add and them clickthe **add to menu** button in the bottom right corner of the box.
 
-####New items will be added to the bottom of the menu.
+### New items will be added to the bottom of the menu
 	See (Moving menu items)[#menu-items-can-be-dragged-into-place]
+	
 - Now you will see the menu displayed in boxes
 - To re arrange the menu just drag the boxes up and down the list
 - To add items use the search on the left to find your page, select it and hit add to menu
