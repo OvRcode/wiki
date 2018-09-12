@@ -40,7 +40,7 @@ This product will use the following pickups or bus stops:
 | The North Face UWS | 04:30am |
 
 # Set the title
-Titles should follow a standard format. The format is **DESTINATION NAME** **TRIP TYPE** . Dates should be avoided in product titles, all trip products have a date field and the date should be displayed in appropriate places around the shop/site. If you spot a location where the date is missing or looks wrong contact [devops@ovrride.com](mailto:devops@ovrride.com).
+Titles should follow a standard format. The format is {**DESTINATION NAME**} {**TRIP TYPE**} . Dates should be avoided in product titles, all trip products have a date field and the date should be displayed in appropriate places around the shop/site. If you spot a location where the date is missing or looks wrong contact [devops@ovrride.com](mailto:devops@ovrride.com).
 
 For this trip the title would be "Killington Snow Fiend" .
 Enter the title in the title box at the top of the page and click "Save Draft".
