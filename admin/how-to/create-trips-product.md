@@ -176,6 +176,7 @@ For killington you can search for ```killington_long.jpg``` which is a 150x50px 
 In general if you search for the mountain name you should find a 150x50px logo for it some where in the library.
 This image sits above the product title on the product page.
  # Post Expiration
+ ![Post Expire](/uploads/post-expire.png "Post Expire")
  Products can be set to expire using the post expirator plugin: [HOW TO: Setting post expiration](#)
 # Publish
 That's it! As soon as you click publish the product is ready to go
