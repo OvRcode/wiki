@@ -149,5 +149,26 @@ You will want to check and make sure the short code exists by checking the [All 
 
 You can make new shortcodes from the all shortcodes page. Be sure the title has _ instead of spaces and no special characters.
 
+# Description
+![Trip Description](/uploads/trip-description.png "Trip Description")
 
-### That's it! As soon as you click publish the product is ready to go
+Add description shortcode to the body of the post.
+For this Killington Trip the description shortcode is ```[Killington_Description][/Killington_Description]```
+Make sure to save a draft
+
+# Categories
+It is important to get the categories right on the trip. Categories help the trip show up on the right destination pages and also gets the right trips on the right bus stop pages. 
+
+Make sure the product has the following things tagged in categories
+* Destination
+	* Unless this is a new destination it should be a top level item in the categories list, you could also search for the desired item
+	* Also tag the state/area we're going to like **Vermont** in this situation
+* Bus Stops
+	* These will be under a **Bus Stops** heading in the list
+	* Also tag the neighborhoods these stops are in like **Brooklyn** **Manhattan**, ETC
+
+
+# Featured image
+
+# Publish
+That's it! As soon as you click publish the product is ready to go
