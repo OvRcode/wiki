@@ -80,7 +80,9 @@ Values to set:
 | tab_my_tab | [my_tab_info] |
 
 In this example **My Tab** would be the label of the tab and the shortcode with the title **my_tab_info** would be displayed.
-For bus stop pages we should have a tab for each destination labeld with the Destination name as the tab name and the following information:
+Bus stop pages should contain a tab for each destination that picks up there. The order of the tabs is controlled by the order of the **tabs** fields.
+
+The following is an example template taken from the Windham REI SoHo stop and should be saved in a short code. 
 ```
 Departing from:
 303 Lafayette Street (On Lafayette South of Houston)
@@ -90,3 +92,10 @@ Trips Scheduled Regularly Throughout the Season on Wednesdays & Sundays
 
 Bus Departs at 6:00am
 ```
+<!-- COME BACK AND MAKE THIS PAGE [HOW TO: Create a shortcode](#) -->
+
+# Publish
+Click the **Publish** button to Publish this page.
+
+# Add to Site Menu
+[HOW TO: Modify Menu](https://wiki.ovrride.com/how-to/modify-menu)
