@@ -79,6 +79,13 @@ Values to set:
 | tabs | my_tab |
 | tab_my_tab | [my_tab_info] |
 
+Adding fields:
+* Click the **Enter New** link.
+* Type the **Name** in the field above the link.
+* Add the shortcode to the **Value** field.
+* Click **Add Custom Field**
+* Repeat for each value you need to add.
+
 In this example **My Tab** would be the label of the tab and the shortcode with the title **my_tab_info** would be displayed.
 Bus stop pages should contain a tab for each destination that picks up there. The order of the tabs is controlled by the order of the **tabs** fields.
 
