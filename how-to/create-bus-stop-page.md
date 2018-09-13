@@ -46,3 +46,7 @@ Category: My Category Slug: my-category
 You can search for categories by visiting [Products > Categories](https://ovrride.com/wp-admin/edit-tags.php?taxonomy=product_cat&post_type=product)
 <!-- COME BACK AND MAKE THIS: If this is a new stop and not on any products yet then you may need to [HOW TO: Create a new product category](#) -->
 
+In the body of the page enter the following shortcode with your product category slug added
+``` 
+  [product_category category="slug-here" per_page="40" columns="4" orderby="date" order="desc"]
+```
