@@ -42,3 +42,7 @@ In the body of the **Page** you need to add a **shortcode** which will display a
 You are going to need to know the **slug** for the category in this short code. The **slug** is a version of the **product category name** in which the name is lower case and the spaces are replaced with dashes.
 Ex: 
 Category: My Category Slug: my-category
+
+You can search for categories by visiting [Products > Categories](https://ovrride.com/wp-admin/edit-tags.php?taxonomy=product_cat&post_type=product)
+<!-- COME BACK AND MAKE THIS: If this is a new stop and not on any products yet then you may need to [HOW TO: Create a new product category](#) -->
+
