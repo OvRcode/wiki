@@ -56,3 +56,37 @@ Click **Save draft**
 # Set Custom Fields
 ![Page Custom Fields](/uploads/page-custom-fields.png "Page Custom Fields")
 The rest of the information for this template will be pulled from custom fields. You will be exclusively using the **Enter New** section of this form to add pairs of  **Name** and **Value** fields.
+
+Two things are retrieved from the custom fields for this template.
+1. Google Map information
+	* **NAME:** bus_stop
+	*  **VALUE:** Google Map Place Name
+		*  If the location has a name when you search for it on google maps, like [The IFC Center](https://www.google.com/maps/place/IFC+Center/@40.731225,-74.001423,19z/data=!4m5!3m4!1s0x0:0xdae73e0f53cd2d4d!8m2!3d40.7312056!4d-74.0016722?hl=en-US) you can use the name instead of the address
+		*  The IFC Center has the address: 323 6th Ave, New York, NY 10014
+			*  you could use either one in the **bus_stop** field
+2. Tab information
+	* 2 fields are required to make a tab
+		* **NAME:** tabs **VALUE: tab_name**
+			*  you can have multiple fields with the same name, the tabs setup relies on this
+		*  **NAME:** tab_tab_name **VALUE:** [shortcode_for_tab_content]
+			*  use a short code here to display content
+			<!--*  COME BACK AND MAKE THIS[HOW TO: Create a shortcode](#) -->
+			
+Values to set:
+| Name | Value |
+| --- | --- |
+| bus_stop | Place Name or Address |
+| tabs | my_tab |
+| tab_my_tab | [my_tab_info] |
+
+In this example **My Tab** would be the label of the tab and the shortcode with the title **my_tab_info** would be displayed.
+For bus stop pages we should have a tab for each destination labeld with the Destination name as the tab name and the following information:
+```
+Departing from:
+303 Lafayette Street (On Lafayette South of Houston)
+New York, NY 10012
+
+Trips Scheduled Regularly Throughout the Season on Wednesdays & Sundays
+
+Bus Departs at 6:00am
+```
