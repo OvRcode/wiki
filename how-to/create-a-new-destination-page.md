@@ -16,6 +16,7 @@ From the admin menu on the left side of the screen select **New Page** from the 
 ![Destination Page View](/uploads/destination-page-view.png "Destination Page View")
 
 # Set Page Title
+![Destination Page Title](/uploads/destination-page-title.png "Destination Page Title")
 
 This field will be displayed as the title on the destination page. 
 The title field is at the top of the page.
@@ -33,6 +34,8 @@ Values:
 Click **Save draft**
 
 # Set WooCommerce Product shortcode
+![Destination Page Body](/uploads/destination-page-body.png "Destination Page Body")
+
 In the body of the **Page** you need to add a **shortcode** which will display a category of products from the shop.
 You are going to need to know the **slug** for the category in this short code. The **slug** is a version of the **product category name** in which the name is lower case and the spaces are replaced with dashes.
 Ex: 
@@ -52,27 +55,21 @@ Click **Save draft**
 ![Destination Page Custom Fields](/uploads/destination-page-custom-fields.png "Destination Page Custom Fields")
 The rest of the information for this template will be pulled from custom fields. You will be exclusively using the **Enter New** section of this form to add pairs of  **Name** and **Value** fields.
 
-Two things are retrieved from the custom fields for this template.
-1. Google Map information
-	* **NAME:** bus_stop
-	*  **VALUE:** Google Map Place Name
-		*  If the location has a name when you search for it on google maps, like [The IFC Center](https://www.google.com/maps/place/IFC+Center/@40.731225,-74.001423,19z/data=!4m5!3m4!1s0x0:0xdae73e0f53cd2d4d!8m2!3d40.7312056!4d-74.0016722?hl=en-US) you can use the name instead of the address
-		*  The IFC Center has the address: 323 6th Ave, New York, NY 10014
-			*  you could use either one in the **bus_stop** field
-2. Tab information
-	* 2 fields are required to make a tab
-		* **NAME:** tabs **VALUE: tab_name**
-			*  you can have multiple fields with the same name, the tabs setup relies on this
-		*  **NAME:** tab_tab_name **VALUE:** [shortcode_for_tab_content]
-			*  use a short code here to display content
-			<!--*  COME BACK AND MAKE THIS[HOW TO: Create a shortcode](#) -->
-	* You need to make a set of these fields for each tab you would like to show under the map
-			
+The Destination Page template only uses the custom fields for tab data.
+Fields named **tabs** have a **value** which is used for the tab label and as part of the second field with the tab content. Names should be lower case with no special characters except underscores to replace spaces.
+Fields named **tab**_my_tab_name should contain shortcodes to be used for tab content			
+
 Values to set:
 | Name | Value |
 | --- | --- |
-| bus_stop | Place Name or Address |
 | tabs | my_tab |
 | tab_my_tab | [my_tab_info] |
 
+Click **Enter new** and then fill in pairs of names and values.
+The order of the **tabs** fields will determine the order of the tabs.
 
+# Save
+Click **Save draft** or **Publish**
+
+# Add to Site Menu
+[HOW TO: Modify Menu](https://wiki.ovrride.com/how-to/modify-menu)
