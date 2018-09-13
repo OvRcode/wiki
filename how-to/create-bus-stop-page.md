@@ -51,3 +51,8 @@ In the body of the page enter the following shortcode with your product category
 ``` 
   [product_category category="slug-here" per_page="40" columns="4" orderby="date" order="desc"]
 ```
+Click **Save draft**
+
+# Set Custom Fields
+![Page Custom Fields](/uploads/page-custom-fields.png "Page Custom Fields")
+The rest of the information for this template will be pulled from custom fields. You will be exclusively using the **Enter New** section of this form to add pairs of  **Name** and **Value** fields.
