@@ -26,4 +26,19 @@ This field will be displayed as the title on the bus stop page. It's best to use
 The title field is at the top of the page.
 Click **save draft** when done.
 
-# 
+# Set Page Attributes
+![Page Attributes](/uploads/page-attributes.png "Page Attributes")
+
+Setting the correct **Parent** here helps with organization. Setting the correct **Page Template** will let the site process the information here to display as a bus stop template.
+Values:
+* Parent: Bus Stops
+* Template: Bus Stop
+* Order: 0
+
+Click **Save draft**
+
+# Set WooCommerce Product shortcode
+In the body of the **Page** you need to add a **shortcode** which will display a category of products from the shop.
+You are going to need to know the **slug** for the category in this short code. The **slug** is a version of the **product category name** in which the name is lower case and the spaces are replaced with dashes.
+Ex: 
+Category: My Category Slug: my-category
