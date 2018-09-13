@@ -17,3 +17,4 @@ If you do not see the admin dashboard or toolbar after logging in contact [devop
 From the **Page** heading in the admin menu on the left side of the page click **Add New**
 
 # Add Page view
+![Page Add View](/uploads/page-add-view.png "Page Add View")
