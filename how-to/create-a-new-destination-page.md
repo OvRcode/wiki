@@ -59,6 +59,8 @@ The Destination Page template only uses the custom fields for tab data.
 Fields named **tabs** have a **value** which is used for the tab label and as part of the second field with the tab content. Names should be lower case with no special characters except underscores to replace spaces.
 Fields named **tab**_my_tab_name should contain shortcodes to be used for tab content			
 
+For destination pages tabs usually include bus times, rates, includes, description, pics & video.
+
 Values to set:
 | Name | Value |
 | --- | --- |
