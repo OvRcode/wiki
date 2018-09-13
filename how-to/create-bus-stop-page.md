@@ -71,6 +71,7 @@ Two things are retrieved from the custom fields for this template.
 		*  **NAME:** tab_tab_name **VALUE:** [shortcode_for_tab_content]
 			*  use a short code here to display content
 			<!--*  COME BACK AND MAKE THIS[HOW TO: Create a shortcode](#) -->
+	* You need to make a set of these fields for each tab you would like to show under the map
 			
 Values to set:
 | Name | Value |
