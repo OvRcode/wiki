@@ -19,3 +19,7 @@ If you cannot access the admin dashboard contact devops@ovrride.com to have your
 
 # Go to shortcode Page
 ![All Shortcodes](/uploads/all-shortcodes.png "All Shortcodes")
+From the admin menu on the left side of the screen click **All Shortcode** from the **Shortcode** heading.
+
+# Before adding a new shortcode
+**Shortcode titles must be unique. If two shortcodes share the same title you might not get the one you expect when you use the shortcode.**
