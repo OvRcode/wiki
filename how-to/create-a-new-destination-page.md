@@ -70,6 +70,7 @@ Values to set:
 
 Click **Enter new** and then fill in pairs of names and values.
 The order of the **tabs** fields will determine the order of the tabs.
+### Need to make a new shortcode? Checkout [HOWTO: Create a new shortcode](https://wiki.ovrride.com/how-to/create-a-shortcode)
 
 # Save
 Click **Save draft** or **Publish**
