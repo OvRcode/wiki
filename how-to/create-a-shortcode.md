@@ -18,4 +18,4 @@ If you cannot access the admin dashboard contact devops@ovrride.com to have your
 
 
 # Go to shortcode Page
-![Add New Page](/uploads/add-new-page.png "Add New Page")
+![All Shortcodes](/uploads/all-shortcodes.png "All Shortcodes")
