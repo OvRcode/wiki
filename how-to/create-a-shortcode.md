@@ -7,5 +7,5 @@
 
 See [WordPress Codex Shortcode Page](https://codex.wordpress.org/shortcode) for more details.
 
-## Tldr;
+### Tldr;
 Shortcodes let you save bits of text and HTML and use them in pages, posts and possibly as widgets.
