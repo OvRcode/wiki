@@ -29,3 +29,9 @@ From the admin menu on the left side of the screen click **All Shortcode** from 
 It is a good idea to search for the shortcode you intend to create to make sure it doesn't already exist.
 ![Shortcode Search](/uploads/shortcode-search.png "Shortcode Search")
 The search box is in the upper right hand corner of the shortcode screen.
+
+# Add new shortcode
+![Shortcode Add New](/uploads/shortcode-add-new.png "Shortcode Add New")
+Click the **Add new shotcode** button in the top left corner of the screen.
+
+# New shortcode view
