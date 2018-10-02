@@ -11,3 +11,11 @@ On our site we mostly use shortcodes for tab content, like the tabs on products,
 
 ### Tldr;
 Shortcodes let you save bits of text and HTML and use them in pages, posts and possibly as widgets.
+
+# Log into admin dashboard
+Vist [https://ovrride.com/wp-admin](https://ovrride.com/wp-admin)
+If you cannot access the admin dashboard contact devops@ovrride.com to have your account checked out.
+
+
+# Go to shortcode Page
+![Add New Page](/uploads/add-new-page.png "Add New Page")
