@@ -7,5 +7,7 @@
 
 See [WordPress Codex Shortcode Page](https://codex.wordpress.org/shortcode) for more details.
 
+On our site we mostly use shortcodes for tab content, like the tabs on products, destination pages and bus stop pages.
+
 ### Tldr;
 Shortcodes let you save bits of text and HTML and use them in pages, posts and possibly as widgets.
