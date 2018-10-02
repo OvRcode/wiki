@@ -35,3 +35,8 @@ The search box is in the upper right hand corner of the shortcode screen.
 Click the **Add new shotcode** button in the top left corner of the screen.
 
 # New shortcode view
+![Shortcode View](/uploads/shortcode-view.png "Shortcode View")
+
+# Set title
+The title is the text you will use to display the shortcode. If the title is **example_shortcode** then you would use the tag ```[example_shortcode]``` to display the contents.
+Shortcode titles can only contain letters, numbers
