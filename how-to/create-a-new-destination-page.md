@@ -3,6 +3,7 @@
 
 # Destination page vs destination
 Destination pages are just a window dressing to show products organized in a category. A destination in the system allows the trips plugin to store some custom information and helps us organize trips on the lists.
+[HOW TO: Create a new Destination](https://wiki.ovrride.com/how-to/create-a-new-destination)
 
 # Log into admin dashboard
 Vist [https://ovrride.com/wp-admin](https://ovrride.com/wp-admin)
