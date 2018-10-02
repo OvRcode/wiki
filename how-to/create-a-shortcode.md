@@ -40,4 +40,14 @@ Click the **Add new shotcode** button in the top left corner of the screen.
 # Set title
 The title is the text you will use to display the shortcode. If the title is **example_shortcode** then you would use the tag ```[example_shortcode]``` to display the contents.
 Shortcode titles can only contain letters, numbers and under scores.
-### ** Make sure to use underscores instead of spaces when making shortcode titles.**
+### Make sure to use underscores instead of spaces when making shortcode titles
+![Shortcode Title](/uploads/shortcode-title.png "Shortcode Title")
+The title field is in the upper left corner of the screen.
+# Set body
+The body is the content that the shortcode displays. You can edit this field just like a normal page or post. For some shortcodes like rates and bus times (destination pages only) certain formats are required for the content to display properly, it's probably best to find one from the shortcode search and take a look at the way the html is structured.
+![Shortcode Body](/uploads/shortcode-body.png "Shortcode Body")
+
+# Save
+Either click **Publish** button or **Save as draft**. Drafted shortcodes will show the tag where they are saved instead of the content so if **example_shortcode** contains the text *example content* and it was set to draft you would see ```[example_shortcode]``` any where you have the shortcode being displayed.
+
+Published shortcodes are not displayed anywhere until they are inserted into a place on the site where shortcodes can be displayed like a destination page, bus stop page or home page widget.
