@@ -39,4 +39,5 @@ Click the **Add new shotcode** button in the top left corner of the screen.
 
 # Set title
 The title is the text you will use to display the shortcode. If the title is **example_shortcode** then you would use the tag ```[example_shortcode]``` to display the contents.
-Shortcode titles can only contain letters, numbers
+Shortcode titles can only contain letters, numbers and under scores.
+### ** Make sure to use underscores instead of spaces when making shortcode titles.**
