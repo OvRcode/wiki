@@ -2,7 +2,7 @@
 <!-- SUBTITLE: Add a widget or tile to the home page -->
 
 # Widgets
-[video](https://www.youtube.com/v/QxeQBPgftRE&?start=0&end=260){.youtube}
+[video](https://www.youtube.com/v/QxeQBPgftRE?start=0&end=260){.youtube}
 
 
 # Log into admin dashboard
