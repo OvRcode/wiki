@@ -2,9 +2,8 @@
 <!-- SUBTITLE: Add a widget or tile to the home page -->
 
 # Widgets
-[What is a widget anyway?](https://www.wpbeginner.com/glossary/widgets/)
+[video](https://www.youtube.com/v/QxeQBPgftRE&?start=0&end=260){.youtube}
 
-Most of the elements on the home page are widgets. By making these elements widgets we can easily re-organize elements and change the layout of the page more easlily.
 
 # Log into admin dashboard
 Visit [https://ovrride.com/wp-admin](https://ovrride.com/wp-admin/)
