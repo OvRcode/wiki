@@ -2,6 +2,7 @@
 <!-- SUBTITLE: Add a widget or tile to the home page -->
 
 # Widgets
+**Only the first 4 minutes really matters here, the rest is about making wordpress themes**
 [video](https://www.youtube.com/v/QxeQBPgftRE?start=0&end=260){.youtube}
 
 
